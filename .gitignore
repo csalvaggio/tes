@@ -1,0 +1,22 @@
+# IDL Workbench metadata
+.metadata/
+.settings/
+.recovery/
+
+# Compiled / cache files
+*.sav
+*.xdr
+*.dat
+*.log
+
+# User files
+.idl_history
+.idl_user
+
+# Derived data files
+*.sac
+*.dwc
+*.ems
+*.SAC
+*.DWC
+*.EMS
